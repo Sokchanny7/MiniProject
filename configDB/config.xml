@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CONFIG>
+    <DBNAME>productdb</DBNAME>
+    <PORT>5432</PORT>
+    <PassWord>123</PassWord>
+    <URL>localhost:</URL>
+    <USER>postgres</USER>
+</CONFIG>
